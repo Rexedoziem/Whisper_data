@@ -1,0 +1,42 @@
+[
+  {
+    "text": "How you dey?",
+    "english": "How are you?",
+    "category": "greeting"
+  },
+  {
+    "text": "I dey fine o",
+    "english": "I am fine",
+    "category": "response"
+  },
+  {
+    "text": "Wetin you wan chop?",
+    "english": "What do you want to eat?",
+    "category": "food"
+  },
+  {
+    "text": "Make we go market",
+    "english": "Let us go to the market",
+    "category": "suggestion"
+  },
+  {
+    "text": "This thing no dey work",
+    "english": "This thing is not working",
+    "category": "complaint"
+  },
+  {
+    "text": "I go come back later",
+    "english": "I will come back later",
+    "category": "time"
+  },
+  {
+    "text": "Na so e be",
+    "english": "That is how it is",
+    "category": "agreement"
+  },
+  {
+    "text": "You sabi am well well",
+    "english": "You know it very well",
+    "category": "knowledge"
+  }
+]

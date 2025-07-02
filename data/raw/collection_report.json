@@ -1,0 +1,13 @@
+{
+  "total_items": 1,
+  "ready_for_processing": 1,
+  "needs_manual_transcription": 0,
+  "errors": 0,
+  "total_duration": 9598,
+  "sources": {
+    "youtube": 1
+  },
+  "transcription_sources": {
+    "automatic": 1
+  }
+}

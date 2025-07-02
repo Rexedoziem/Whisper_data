@@ -1,0 +1,31 @@
+# Example YouTube URLs for Nigerian Pidgin content
+# Add your own URLs here, one per line
+
+# Nigerian comedy skits (often contain Pidgin)
+https://www.youtube.com/watch?v=example1
+
+# Nigerian music videos with Pidgin lyrics
+https://www.youtube.com/watch?v=example2
+
+# Nigerian talk shows or interviews
+https://www.youtube.com/watch?v=example3
+
+# Nigerian street interviews
+https://www.youtube.com/watch?v=example4
+
+# Nigerian educational content in Pidgin
+https://www.youtube.com/watch?v=example5
+
+# Instructions:
+# 1. Replace the example URLs with real YouTube URLs
+# 2. Focus on content that contains Nigerian Pidgin speech
+# 3. Shorter videos (2-10 minutes) work best for training
+# 4. Look for content with clear audio quality
+# 5. Avoid music-heavy content where speech is hard to hear
+
+# Good sources to look for:
+# - Nigerian comedy channels (Mark Angel Comedy, Broda Shaggi, etc.)
+# - Nigerian news channels with street interviews
+# - Nigerian lifestyle/vlog channels
+# - Nigerian educational channels that use Pidgin
+# - Nigerian radio show clips
